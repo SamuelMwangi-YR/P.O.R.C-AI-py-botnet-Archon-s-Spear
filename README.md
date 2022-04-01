@@ -1,4 +1,4 @@
-#Image to be disaplayed
+#Python Botnet Interface
 
 ![](Banner.png)
 
