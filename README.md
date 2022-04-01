@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MayankFawkes/Python-Botnet/raw/master/Banner.png">
+  <img src="">
 </p>
 
 # Python-Botnet (UDP Flood)
