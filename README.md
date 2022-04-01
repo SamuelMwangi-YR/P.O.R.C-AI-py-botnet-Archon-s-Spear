@@ -1,6 +1,8 @@
-<p align="center">
-  <img src=" https://github.com/SamuelMwangi-YR/P.O.R.C-AI-py-botnet-Archon-s-Dagger-/raw/master/Banner.png ">
-</p>
+#Image to be disaplayed
+
+!()Banner.png
+
+
 
 # Python-Botnet (UDP Flood)
 2nd P.O.R.C-AI python BotNet Integration
