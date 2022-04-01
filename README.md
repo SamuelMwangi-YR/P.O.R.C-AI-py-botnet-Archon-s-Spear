@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" https://github.com/SamuelMwangi-YR/P.O.R.C-AI-py-botnet-Archon-s-Dagger-/blob/main/Banner.png">
+  <img src=" https://github.com/SamuelMwangi-YR/P.O.R.C-AI-py-botnet-Archon-s-Dagger-/main/Banner.png">
 </p>
 
 # Python-Botnet (UDP Flood)
