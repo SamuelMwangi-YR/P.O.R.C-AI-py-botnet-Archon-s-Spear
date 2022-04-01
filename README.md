@@ -18,7 +18,7 @@ Options:
 	exit or quit 	For quiting/exiting
 ```
 # Update
-## 16/01/2021
+## 01/16/2022
 * bug fixxed
 
 # WARNING
