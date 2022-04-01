@@ -1,6 +1,6 @@
 #Image to be disaplayed
 
-!()Banner.png
+![](Banner.png)
 
 
 
